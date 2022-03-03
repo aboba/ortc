@@ -595,6 +595,17 @@ var respecConfig = {
       "status": "08 March 2018. Internet Draft (work in progress)",
       "publisher": "IETF"
     },
+    "RFC7983bis": {
+      "title": "Multiplexing Scheme Updates for QUIC",
+      "href": "https://datatracker.ietf.org/doc/html/draft-ietf-avtcore-rfc7983bis",
+      "authors": [
+        "B. Aboba",
+        "G. Salgueiro",
+        "C. Perkins"
+      ],
+      "status": "28 January 2022. Internet Draft (work in progress)",
+      "publisher": "IETF"
+    },
     "STUN-PARAMETERS": {
       "authors":["IETF"],
       "href": "https://www.iana.org/assignments/stun-parameters/stun-parameters.xhtml#stun-parameters-6",
@@ -654,16 +665,6 @@ var respecConfig = {
         "rawDate": "2018-06-21",
         "edDraft": "https://w3c.github.io/webrtc-pc/identity.html"
     },
-    "WEBRTC-QUIC": {
-      "title": "QUIC API for WebRTC",
-      "href": "https://w3c.github.io/webrtc-quic/",
-      "authors": [
-        "Peter Thatcher",
-        "Bernard Aboba"
-      ],
-      "status": "21 January 2020 (work in progress)",
-      "publisher": "W3C"
-    }, 
     "WEBRTC-STATS": {
       "title": "Identifiers for WebRTC's Statistics API",
       "href": "https://w3c.github.io/webrtc-stats/",
